@@ -10,30 +10,31 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The list of map titles is displayed.
-* [ ] After tapping on a map title, the associated markers in the map are shown.
-* [ ] The user is able to create a new map.
+* [X] The list of map titles is displayed.
+* [X] After tapping on a map title, the associated markers in the map are shown.
+* [X] The user is able to create a new map.
 
 The following **extensions** are implemented:
 
-* [ ] When a map marker is created, the pin is animated.
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] Color pallete is changed
+* [X] The Map Selection Item now lists how many places are on the map
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='../MapDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. No real issues in the process, although I don't
+fully understand the first video. Building the Recycler view is still confusing, but I managed.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Wilhem Kautz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
